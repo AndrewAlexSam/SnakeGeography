@@ -1,6 +1,6 @@
-# SnakeGeography
+# United Snakes of America
 Description:
-SnakeGeography is an educational Greenfoot game where players control a snake to collect state markers across the U.S. map. The game combines the fun of Snake with learning U.S. geography by showing state names and locations as you play.
+United Snakes of America is an educational Greenfoot game where players control a snake to collect state markers across the U.S. map. The game combines the fun of Snake with learning U.S. geography by showing state names and locations as you play.
 
 How to Play:
 Use the arrow keys to move the snake.
