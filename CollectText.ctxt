@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CollectText
+comment1.params=targetState
+comment1.target=void\ update(java.lang.String)
+numComments=2
