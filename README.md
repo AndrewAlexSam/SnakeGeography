@@ -1,2 +1,2 @@
-# BuggedOutJava
-An educational Greenfoot game where players blast bugs using Java vocabulary. Correct answers clear the screen, while wrong ones spawn more bugs—helping players learn Java concepts in a fun, interactive way.
+# SnakeGeography
+SnakeGeography is an educational game built in Greenfoot where players navigate a snake to collect orbs representing U.S. states, learning state locations while tracking score, lives, and time.
